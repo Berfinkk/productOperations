@@ -1,3 +1,10 @@
+![project1](https://github.com/Berfinkk/productOperations/assets/101929555/bfd73111-d2a9-41f5-b46b-d767f0905fb6)
+![Ekran Görüntüsü (17)](https://github.com/Berfinkk/productOperations/assets/101929555/26b44b1d-b8f0-45b9-9be8-11d1a47238e9)
+![Ekran Görüntüsü (16)](https://github.com/Berfinkk/productOperations/assets/101929555/5f3684af-66a2-460f-a0f0-bcc9b566b010)
+![Ekran Görüntüsü (15)](https://github.com/Berfinkk/productOperations/assets/101929555/976911a9-a920-41b6-8a58-e2b9050d6b83)
+![project3](https://github.com/Berfinkk/productOperations/assets/101929555/d21c7db2-509f-4914-bd9c-d59aff6efa74)
+![project2](https://github.com/Berfinkk/productOperations/assets/101929555/c4831977-f5f6-4f8c-986f-185406aec689)
+
 # productOperations
 React Product Management Project
 This project is a simple example aimed at building a product management application using React.
